@@ -3,7 +3,7 @@ Obsahuje zatím:
 * Ahoj světe
 * Základ [designu](https://cs.wikipedia.org/wiki/Design)
 
-[INFO](info.html)
+[INFO](https://pslib-cz.github.io/2021l4web-repository-skills-SleglJan/info.html)
 
 **Změna** | **Popis**
 :---------: | :---------:
