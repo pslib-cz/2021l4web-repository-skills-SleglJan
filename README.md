@@ -4,4 +4,5 @@ Obsahuje zatím:
 * Základ [designu](https://cs.wikipedia.org/wiki/Design)
 
 ![Sus](/sus.jpg)
+
 **Sus amogus**
