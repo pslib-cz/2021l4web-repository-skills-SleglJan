@@ -1,4 +1,4 @@
 # Můj super web
 Obsahuje zatím:
 * Ahoj světe
-* Základ [designu](www.wikipedia.cz/Design)
+* Základ [designu](https://www.wikipedia.cz/Design)
