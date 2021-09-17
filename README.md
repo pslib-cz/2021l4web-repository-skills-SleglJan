@@ -7,8 +7,8 @@ Obsahuje zatím:
 
 **Změna** | **Popis**
 --------- | -----------
-16. 9. \'21 | Vytvořeno
-17. 9. \'21 | Přidáno info
+16. 9. '\'21 | Vytvořeno
+17. 9. '\'21 | Přidáno info
 
 ```html
 <!DOCTYPE html>
